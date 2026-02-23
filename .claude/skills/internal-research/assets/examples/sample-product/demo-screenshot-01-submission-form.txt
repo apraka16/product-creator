@@ -1,0 +1,17 @@
+PLACEHOLDER: Screenshot of submission form
+
+This is a placeholder for an actual screenshot image file.
+
+When creating your own research materials, replace this with:
+- An actual PNG or JPG screenshot
+- Captured from timestamp [00:30 - 01:45] in the demo video
+
+The screenshot should show:
+- Main dashboard with "New Submission" button
+- Submission form with auto-populated client information
+- Business Owners Policy selection
+- Pre-filled fields from AMS integration
+
+Filename format: demo-screenshot-01-submission-form.png
+
+For this example folder to work with the skill, you can add any sample screenshot image with this filename (without the .txt extension).

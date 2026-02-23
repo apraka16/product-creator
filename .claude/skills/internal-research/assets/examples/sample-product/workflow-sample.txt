@@ -1,0 +1,72 @@
+PLACEHOLDER: Current workflow diagram
+
+This is a placeholder for an actual PDF file.
+
+When creating your own research materials, replace this with:
+- An actual PDF document
+- Showing current business process flow
+- Workflow diagrams, process maps, or documentation
+
+Example content for commercial submissions workflow:
+
+CURRENT COMMERCIAL SUBMISSION WORKFLOW
+======================================
+
+Step 1: Initial Client Contact
+- Client requests commercial insurance quote
+- Agent gathers basic business information
+- Agent determines coverage needs
+
+Step 2: Data Collection
+- Collect business details (revenue, employee count, locations)
+- Request loss history (5 years)
+- Gather specific risk information
+- Request supporting documents (financial statements, safety programs, etc.)
+
+Step 3: ACORD Form Completion
+- Agent manually fills out ACORD 125 (Commercial Insurance Application)
+- Complete ACORD 101 (Additional Remarks Schedule) if needed
+- Fill out carrier-specific supplemental applications
+- Time required: 2-3 hours per carrier
+
+Step 4: Document Preparation
+- Create statement of values spreadsheet
+- Format loss runs per carrier requirements
+- Compile additional questionnaires
+- Organize all documents into submission packet
+
+Step 5: Carrier Selection
+- Call underwriters to check appetite
+- Based on relationships and experience
+- Typically submit to 2-4 carriers
+- Manual process, no centralized information
+
+Step 6: Submission Delivery
+- Email submission packet to each carrier
+- Or upload to individual carrier portals
+- Each carrier has different format requirements
+- Track submissions manually in spreadsheet
+
+Step 7: Follow-up & Tracking
+- Follow up via email or phone after 3-5 days
+- Check on status, any questions
+- Manually track in spreadsheet or email
+- Wait for quotes (typically 5-10 business days)
+
+Step 8: Quote Review & Presentation
+- Receive quotes from carriers
+- Compare coverage and pricing
+- Present options to client
+- Facilitate client decision
+
+PAIN POINTS IDENTIFIED:
+- Duplicate data entry across multiple carrier systems
+- Time-consuming manual form completion
+- Inconsistent document formatting
+- Manual carrier appetite checking
+- No centralized tracking system
+- High potential for errors in transcription
+
+Filename format: workflow-sample.pdf
+
+For this example folder to work with the skill, you can add any sample PDF document with this filename (without the .txt extension).

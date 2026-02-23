@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Environment
+.env
+*.env
+
+# Claude local settings (may contain tokens)
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Eval outputs
+eval_results/
+outputs/
+/tmp/

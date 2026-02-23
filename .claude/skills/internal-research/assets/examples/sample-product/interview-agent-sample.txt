@@ -1,0 +1,43 @@
+Interview Transcript: Commercial Insurance Agent
+Date: February 15, 2026
+Interviewee: John Smith, Senior Commercial Insurance Agent, ABC Insurance Brokerage
+Interviewer: Product Research Team
+Duration: 45 minutes
+
+---
+
+INTERVIEWER: Thanks for taking the time to speak with us today, John. Can you walk us through your current process for submitting commercial insurance applications to carriers?
+
+JOHN: Sure. Right now, it's a pretty manual process. When a client wants coverage, I first gather all their information - business details, what they need covered, their loss history, all that. Then I have to fill out ACORD forms for each carrier I want to submit to.
+
+INTERVIEWER: How long does that typically take?
+
+JOHN: For a straightforward submission, maybe 2-3 hours. But for complex commercial risks with multiple locations or special requirements, it can take a full day or more. And that's just for one carrier. If I want to shop it to 3-4 carriers, multiply that time.
+
+INTERVIEWER: What's the most time-consuming part?
+
+JOHN: Definitely the data entry. I'm copying the same information from our AMS into different carrier portals or ACORD forms. Each carrier wants things formatted slightly differently. And then there are the supplemental applications - every carrier has their own questions. Some want a statement of values spreadsheet, others want loss runs formatted a specific way. It's a lot of back-and-forth.
+
+INTERVIEWER: How do you handle document management?
+
+JOHN: That's another headache. I keep everything in folders on our network drive, but it's not organized consistently. Sometimes I can't find the loss runs from last year, or I have to ask the client to send documents again because I can't locate them. And when we need to do renewals, I'm starting almost from scratch even though 80% of the information is the same.
+
+INTERVIEWER: What about carrier selection? How do you decide which carriers to submit to?
+
+JOHN: Honestly, it's based on experience and some phone calls. I'll call my underwriter contacts and ask "Hey, are you writing restaurants in California right now?" or "What's your appetite for contractors?" It's very manual and relationship-based. There's no central place to check carrier appetite.
+
+INTERVIEWER: If you could wave a magic wand and fix one thing about this process, what would it be?
+
+JOHN: I'd want to enter the client information once and have it automatically populate all the forms I need - ACORD applications, carrier supplementals, everything. And then just click a button to send the complete submission packet to multiple carriers at once. That would save me hours every day.
+
+INTERVIEWER: Are there any other pain points you'd like to mention?
+
+JOHN: Yeah, tracking. Once I submit to carriers, I'm tracking responses in spreadsheets or just my email. I have to manually follow up to see if they've reviewed it, if they need more information, what their quote is. It would be great to have a dashboard showing the status of all my submissions in one place.
+
+INTERVIEWER: That's really helpful. Thank you, John.
+
+JOHN: No problem. Happy to help. Anything that makes this process easier would be a huge win for us.
+
+---
+
+END OF TRANSCRIPT

@@ -1,0 +1,18 @@
+{
+    "test_cases": [
+        {
+            "id": "tc001",
+            "input": "Research competitors for Submissions",
+            "checks": 
+            {
+                "has_executive_summary": true,
+                "min_competitors": 3,
+                "has_pricing_section": true,
+                "required_sections": ["Executive Summary", "Competitive Landscape Overview", "Competitor Profiles", "Market Gaps & Opportunities", "Go to Market - MVP and Phases"],
+                "optional_sections": ["Feature Comparison Matrix"],
+                "min_word_count": 1000,
+                "max_word_count": 2000
+            }
+        }
+    ]
+}

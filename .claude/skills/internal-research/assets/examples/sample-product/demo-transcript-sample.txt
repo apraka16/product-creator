@@ -1,0 +1,54 @@
+Demo Video Transcript: Competitor Product XYZ - Commercial Submissions Feature
+Date: February 18, 2026
+Duration: 12 minutes
+Source: Product website demo video
+
+---
+
+[00:00 - 00:30]
+NARRATOR: Welcome to this demonstration of our commercial insurance submission platform. Today we'll show you how agents can create and send submission packets to multiple carriers in minutes instead of hours.
+
+[00:30 - 01:45]
+NARRATOR: Let's start with a new submission. Here on the main dashboard, you can see all your active submissions and their status. To create a new one, click "New Submission" in the top right corner.
+
+[SCREENSHOT: demo-screenshot-01-submission-form.png shows this screen]
+
+The system prompts you to select the type of commercial coverage. We'll choose "Business Owners Policy" for this example. Notice the form auto-populates with client information from your agency management system. This eliminates duplicate data entry.
+
+[01:45 - 03:20]
+NARRATOR: Now we're in the submission builder. On the left side, you see all the required forms and documents. The system has automatically generated an ACORD 125 application with the client's basic information pre-filled. You can review and edit any field as needed.
+
+The conditional logic feature is powerful here - as you answer questions, the form adapts. For example, when we indicated this business has a fleet of vehicles, additional questions about commercial auto appeared automatically.
+
+[03:20 - 05:00]
+NARRATOR: Next, let's add supporting documents. Click "Attach Documents" and you can upload loss runs, statements of value, or any other required materials. The system recognizes document types and places them in the correct section of your submission packet.
+
+[SCREENSHOT: demo-screenshot-02-carrier-list.png shows the carrier selection screen]
+
+Now comes the exciting part - carrier selection. Click "Select Carriers" and you'll see a list of carriers with real-time appetite indicators. Green means they're actively writing this type of risk in this state. Yellow means limited appetite. Red means they're not currently accepting new business.
+
+[05:00 - 07:15]
+NARRATOR: We'll select three carriers for this submission: Carrier A, Carrier B, and Carrier C. Each carrier has specific supplemental questions, which the system displays in an interview format. You answer once, and the system routes the information to the correct carrier forms.
+
+Notice the progress indicator shows we're 85% complete. The system identifies any missing required information before you can submit.
+
+[07:15 - 09:00]
+NARRATOR: Let's review the submission packet. Click "Preview" to see exactly what each carrier will receive. Here's the complete packet for Carrier A - ACORD application, their supplemental questionnaire, statement of values, and loss runs, all properly formatted according to their requirements.
+
+The same information is formatted differently for Carrier B based on their preferences. This automation saves hours of manual formatting work.
+
+[09:00 - 10:30]
+NARRATOR: Ready to submit? Click "Send to Carriers" and the system delivers the submission packets electronically to each selected carrier. You can also download PDFs if a carrier requires email or portal submission.
+
+[SCREENSHOT: demo-screenshot-03-tracking-dashboard.png would show the tracking screen]
+
+The tracking dashboard now shows your submission in "Pending Review" status with all three carriers. You'll receive automatic notifications when carriers open the submission, request additional information, or provide quotes.
+
+[10:30 - 12:00]
+NARRATOR: In summary, what used to take hours or even days now takes minutes. Enter information once, let the system handle formatting and routing, and track everything in one place. That's how our commercial submissions platform helps agencies work more efficiently and win more business.
+
+Thank you for watching this demonstration. Contact us to schedule a personalized demo for your agency.
+
+---
+
+END OF TRANSCRIPT

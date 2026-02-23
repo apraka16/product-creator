@@ -1,0 +1,17 @@
+PLACEHOLDER: Screenshot of carrier selection screen
+
+This is a placeholder for an actual screenshot image file.
+
+When creating your own research materials, replace this with:
+- An actual PNG or JPG screenshot
+- Captured from timestamp [03:20 - 05:00] in the demo video
+
+The screenshot should show:
+- Carrier selection interface
+- List of carriers with appetite indicators (green/yellow/red)
+- Real-time availability status
+- Carrier A, Carrier B, Carrier C options
+
+Filename format: demo-screenshot-02-carrier-list.png
+
+For this example folder to work with the skill, you can add any sample screenshot image with this filename (without the .txt extension).
