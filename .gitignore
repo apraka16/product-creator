@@ -22,3 +22,8 @@ __pycache__/
 eval_results/
 outputs/
 /tmp/
+
+# Decks
+executive-deck/template/Salesforce Corporate Template 2026.pptx
+executive-deck/unpacked
+executive-deck/competitive-research-deck.pptx
