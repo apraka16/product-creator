@@ -1,0 +1,2655 @@
+<?xml version="1.0" encoding="UTF-8"?><p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint" xmlns:com="http://schemas.openxmlformats.org/drawingml/2006/compatibility" xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" xmlns:ahyp="http://schemas.microsoft.com/office/drawing/2018/hyperlinkcolor">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1523" name="Shape 1523"/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="1524" name="Google Shape;1524;p123"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="857175" y="2189275"/>
+            <a:ext cx="16573500" cy="675300"/>
+          </a:xfrm>
+          <a:prstGeom prst="round2SameRect">
+            <a:avLst>
+              <a:gd fmla="val 26755" name="adj1"/>
+              <a:gd fmla="val 0" name="adj2"/>
+            </a:avLst>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="dk1"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr anchorCtr="0" anchor="ctr" bIns="91425" lIns="91425" spcFirstLastPara="1" rIns="91425" wrap="square" tIns="91425">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr indent="0" lvl="0" marL="0" rtl="0" algn="ctr">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:t/>
+            </a:r>
+            <a:endParaRPr>
+              <a:latin typeface="Salesforce Sans"/>
+              <a:ea typeface="Salesforce Sans"/>
+              <a:cs typeface="Salesforce Sans"/>
+              <a:sym typeface="Salesforce Sans"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="1525" name="Google Shape;1525;p123"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr>
+            <p:ph idx="1" type="body"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="857250" y="9610725"/>
+            <a:ext cx="16573500" cy="428700"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr anchorCtr="0" anchor="t" bIns="0" lIns="0" spcFirstLastPara="1" rIns="0" wrap="square" tIns="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="1800"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:t/>
+            </a:r>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="1526" name="Google Shape;1526;p123"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr>
+            <p:ph type="title"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="857250" y="838200"/>
+            <a:ext cx="15144900" cy="857400"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr anchorCtr="0" anchor="t" bIns="0" lIns="0" spcFirstLastPara="1" rIns="0" wrap="square" tIns="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr indent="0" lvl="0" marL="0" rtl="0" algn="l">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en"/>
+              <a:t>Feature Comparison Matrix</a:t>
+            </a:r>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+            <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="1527" name="Google Shape;1527;p123"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="867001" y="2990862"/>
+          <a:ext cx="16573500" cy="6600000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{0E4E891C-6247-4C41-9A8B-FB3B2B28A346}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+              <a:gridCol w="3000000"/>
+              <a:gridCol w="2250000"/>
+              <a:gridCol w="2250000"/>
+              <a:gridCol w="2250000"/>
+              <a:gridCol w="2250000"/>
+              <a:gridCol w="2250000"/>
+              <a:gridCol w="2250000"/>
+              </a:tblGrid>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Feature</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Indio</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Vertafore</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Bold Penguin</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>IVANS</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Tarmika</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1800" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Applied Epic</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1800">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>ACORD Form Support</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>N/A</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Carrier Connectivity</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Via AMS</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>300+ carriers</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>8 of top 10</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Appetite only</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Extensive</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Real-Time Integration</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Limited</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ 25+ carriers</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>N/A</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>E-Signatures</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>N/A</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✓ Yes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Quote Speed</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Standard</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Under 5 min</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Fast (algo)</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>N/A</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Under 5 min</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Standard</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Salesforce Integration</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>✗ No</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Via connector</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>? Unclear</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Limited</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Pricing Transparency</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>$500/mo</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Not disclosed</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Not disclosed</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Not disclosed</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Not disclosed</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Not disclosed</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            <a:tr h="570000">
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="l">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr b="1" lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Target Agency Size</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Mid-large</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Mid-enterprise</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>All sizes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>All sizes</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Small-mid</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+              <a:tc>
+                <a:txBody>
+                  <a:bodyPr/>
+                  <a:lstStyle/>
+                  <a:p>
+                    <a:pPr indent="0" lvl="0" marL="57175" marR="0" rtl="0" algn="ctr">
+                      <a:lnSpc><a:spcPct val="100000"/></a:lnSpc>
+                      <a:spcBef><a:spcPts val="0"/></a:spcBef>
+                      <a:spcAft><a:spcPts val="0"/></a:spcAft>
+                      <a:buNone/>
+                    </a:pPr>
+                    <a:r>
+                      <a:rPr lang="en" sz="1600" u="none" cap="none" strike="noStrike">
+                        <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                        <a:latin typeface="Salesforce Sans"/>
+                      </a:rPr>
+                      <a:t>Large-enterprise</a:t>
+                    </a:r>
+                    <a:endParaRPr sz="1600">
+                      <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                      <a:latin typeface="Salesforce Sans"/>
+                    </a:endParaRPr>
+                  </a:p>
+                </a:txBody>
+                <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                  <a:lnB cap="flat" cmpd="sng" w="9525">
+                    <a:solidFill><a:schemeClr val="dk1"/></a:solidFill>
+                    <a:prstDash val="solid"/>
+                  </a:lnB>
+                </a:tcPr>
+              </a:tc>
+            </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="1528" name="Google Shape;1528;p123"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="867001" y="2182300"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{0E4E891C-6247-4C41-9A8B-FB3B2B28A346}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="3310800"/>
+                <a:gridCol w="3310800"/>
+                <a:gridCol w="4020150"/>
+                <a:gridCol w="2601450"/>
+                <a:gridCol w="3310800"/>
+              </a:tblGrid>
+              <a:tr h="689250">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr indent="0" lvl="0" marL="182880" marR="0" rtl="0" algn="l">
+                        <a:lnSpc>
+                          <a:spcPct val="100000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="032D60"/>
+                        </a:buClr>
+                        <a:buSzPts val="3600"/>
+                        <a:buFont typeface="Proxima Nova"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="2400" u="none" cap="none" strike="noStrike">
+                          <a:solidFill>
+                            <a:schemeClr val="lt1"/>
+                          </a:solidFill>
+                          <a:latin typeface="Avant Garde Demi SFDC"/>
+                          <a:ea typeface="Avant Garde Demi SFDC"/>
+                          <a:cs typeface="Avant Garde Demi SFDC"/>
+                          <a:sym typeface="Avant Garde Demi SFDC"/>
+                        </a:rPr>
+                        <a:t/>
+                      </a:r>
+                      <a:endParaRPr sz="2400">
+                        <a:solidFill>
+                          <a:schemeClr val="lt1"/>
+                        </a:solidFill>
+                        <a:latin typeface="Avant Garde Demi SFDC"/>
+                        <a:ea typeface="Avant Garde Demi SFDC"/>
+                        <a:cs typeface="Avant Garde Demi SFDC"/>
+                        <a:sym typeface="Avant Garde Demi SFDC"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                    <a:lnL cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnL>
+                    <a:lnR cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnR>
+                    <a:lnT cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnT>
+                    <a:lnB cap="flat" cmpd="sng" w="25400">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:alpha val="0"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr indent="0" lvl="0" marL="0" marR="0" rtl="0" algn="ctr">
+                        <a:lnSpc>
+                          <a:spcPct val="100000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="032D60"/>
+                        </a:buClr>
+                        <a:buSzPts val="3600"/>
+                        <a:buFont typeface="Proxima Nova"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="2400" u="none" cap="none" strike="noStrike">
+                          <a:solidFill>
+                            <a:schemeClr val="lt1"/>
+                          </a:solidFill>
+                          <a:latin typeface="Avant Garde Demi SFDC"/>
+                          <a:ea typeface="Avant Garde Demi SFDC"/>
+                          <a:cs typeface="Avant Garde Demi SFDC"/>
+                          <a:sym typeface="Avant Garde Demi SFDC"/>
+                        </a:rPr>
+                        <a:t/>
+                      </a:r>
+                      <a:endParaRPr sz="2400">
+                        <a:solidFill>
+                          <a:schemeClr val="lt1"/>
+                        </a:solidFill>
+                        <a:latin typeface="Avant Garde Demi SFDC"/>
+                        <a:ea typeface="Avant Garde Demi SFDC"/>
+                        <a:cs typeface="Avant Garde Demi SFDC"/>
+                        <a:sym typeface="Avant Garde Demi SFDC"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                    <a:lnL cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnL>
+                    <a:lnR cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnR>
+                    <a:lnT cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnT>
+                    <a:lnB cap="flat" cmpd="sng" w="25400">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:alpha val="0"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr indent="0" lvl="0" marL="0" marR="0" rtl="0" algn="ctr">
+                        <a:lnSpc>
+                          <a:spcPct val="100000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="032D60"/>
+                        </a:buClr>
+                        <a:buSzPts val="3600"/>
+                        <a:buFont typeface="Proxima Nova"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="2400" u="none" cap="none" strike="noStrike">
+                          <a:solidFill>
+                            <a:schemeClr val="lt1"/>
+                          </a:solidFill>
+                          <a:latin typeface="Avant Garde Demi SFDC"/>
+                          <a:ea typeface="Avant Garde Demi SFDC"/>
+                          <a:cs typeface="Avant Garde Demi SFDC"/>
+                          <a:sym typeface="Avant Garde Demi SFDC"/>
+                        </a:rPr>
+                        <a:t/>
+                      </a:r>
+                      <a:endParaRPr sz="2400">
+                        <a:solidFill>
+                          <a:schemeClr val="lt1"/>
+                        </a:solidFill>
+                        <a:latin typeface="Avant Garde Demi SFDC"/>
+                        <a:ea typeface="Avant Garde Demi SFDC"/>
+                        <a:cs typeface="Avant Garde Demi SFDC"/>
+                        <a:sym typeface="Avant Garde Demi SFDC"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                    <a:lnL cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnL>
+                    <a:lnR cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnR>
+                    <a:lnT cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnT>
+                    <a:lnB cap="flat" cmpd="sng" w="25400">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:alpha val="0"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr indent="0" lvl="0" marL="0" marR="0" rtl="0" algn="ctr">
+                        <a:lnSpc>
+                          <a:spcPct val="100000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="032D60"/>
+                        </a:buClr>
+                        <a:buSzPts val="3600"/>
+                        <a:buFont typeface="Proxima Nova"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="2400" u="none" cap="none" strike="noStrike">
+                          <a:solidFill>
+                            <a:schemeClr val="lt1"/>
+                          </a:solidFill>
+                          <a:latin typeface="Avant Garde Demi SFDC"/>
+                          <a:ea typeface="Avant Garde Demi SFDC"/>
+                          <a:cs typeface="Avant Garde Demi SFDC"/>
+                          <a:sym typeface="Avant Garde Demi SFDC"/>
+                        </a:rPr>
+                        <a:t/>
+                      </a:r>
+                      <a:endParaRPr sz="2400">
+                        <a:solidFill>
+                          <a:schemeClr val="lt1"/>
+                        </a:solidFill>
+                        <a:latin typeface="Avant Garde Demi SFDC"/>
+                        <a:ea typeface="Avant Garde Demi SFDC"/>
+                        <a:cs typeface="Avant Garde Demi SFDC"/>
+                        <a:sym typeface="Avant Garde Demi SFDC"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                    <a:lnL cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnL>
+                    <a:lnR cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnR>
+                    <a:lnT cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnT>
+                    <a:lnB cap="flat" cmpd="sng" w="25400">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:alpha val="0"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr indent="0" lvl="0" marL="0" marR="0" rtl="0" algn="ctr">
+                        <a:lnSpc>
+                          <a:spcPct val="100000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="032D60"/>
+                        </a:buClr>
+                        <a:buSzPts val="3600"/>
+                        <a:buFont typeface="Proxima Nova"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="2400">
+                          <a:solidFill>
+                            <a:schemeClr val="lt1"/>
+                          </a:solidFill>
+                          <a:latin typeface="Avant Garde Demi SFDC"/>
+                          <a:ea typeface="Avant Garde Demi SFDC"/>
+                          <a:cs typeface="Avant Garde Demi SFDC"/>
+                          <a:sym typeface="Avant Garde Demi SFDC"/>
+                        </a:rPr>
+                        <a:t xml:space="preserve">          </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="2400" u="none" cap="none" strike="noStrike">
+                          <a:solidFill>
+                            <a:schemeClr val="lt1"/>
+                          </a:solidFill>
+                          <a:latin typeface="Avant Garde Demi SFDC"/>
+                          <a:ea typeface="Avant Garde Demi SFDC"/>
+                          <a:cs typeface="Avant Garde Demi SFDC"/>
+                          <a:sym typeface="Avant Garde Demi SFDC"/>
+                        </a:rPr>
+                        <a:t/>
+                      </a:r>
+                      <a:endParaRPr sz="2400">
+                        <a:solidFill>
+                          <a:schemeClr val="lt1"/>
+                        </a:solidFill>
+                        <a:latin typeface="Avant Garde Demi SFDC"/>
+                        <a:ea typeface="Avant Garde Demi SFDC"/>
+                        <a:cs typeface="Avant Garde Demi SFDC"/>
+                        <a:sym typeface="Avant Garde Demi SFDC"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marT="57150" marB="57150" marR="57175" marL="57175" anchor="ctr">
+                    <a:lnL cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnL>
+                    <a:lnR cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnR>
+                    <a:lnT cap="flat" cmpd="sng" w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="000000">
+                          <a:alpha val="0"/>
+                        </a:srgbClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnT>
+                    <a:lnB cap="flat" cmpd="sng" w="25400">
+                      <a:solidFill>
+                        <a:schemeClr val="dk1">
+                          <a:alpha val="0"/>
+                        </a:schemeClr>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd len="sm" w="sm" type="none"/>
+                      <a:tailEnd len="sm" w="sm" type="none"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>

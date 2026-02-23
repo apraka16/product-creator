@@ -19,8 +19,17 @@ This project helps product managers research and define new product concepts thr
 ### 2. `/compete-research` - Competitive Research (if available)
 
 **When to invoke:**
-- User asks for competitive analysis or market research. 
-- If you are unsure whether you should use compete-research or internal-research, ask user what his intent is. 
+- User asks for competitive analysis or market research.
+- If you are unsure whether you should use compete-research or internal-research, ask user what his intent is.
+
+---
+
+### 3. `/pptx` - PowerPoint Presentation
+
+**When to invoke:**
+- User wants to create, edit, or read a `.pptx` file or slide deck.
+- User mentions "deck", "slides", "presentation", or references a `.pptx` filename.
+- User wants to extract content from a `.pptx` file, even if the output will be used elsewhere.
 
 
 ## Expected Behavior
